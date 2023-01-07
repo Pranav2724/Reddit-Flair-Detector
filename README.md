@@ -7,7 +7,7 @@ Flow of Code -
 
 2. The "EDA.ipynb" takes the Technology Sub.csv as input and performs a preliminary Exploratory Data Analysis on it 
 
-3. The "Model Building.ipynb" file then takes the same file as input and performs text leaning and vectorisation in order to build various
+3. The "Model Building.ipynb" file then takes the same file as input and performs text cleaning and vectorisation in order to build various
 different models to predict the flair.
 
 4. The "WebApp.ipynb" contains the code relevant to the deployment of the ML model and subsequent hosting on heroku
